@@ -1,0 +1,259 @@
+TUIProtoBetter
+v7
+r0
+t341597900.375282
+cCheck dependencies
+cProcessInfoPlistFile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/Info.plist UIProtoBetter-Info.plist
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/MainWindow.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.xib
+cProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch.gch UIProtoBetter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/main.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/UIProtoBetterAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/UIProtoBetterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/IndexViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter normal i386
+cGenerateDSYMFile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app.dSYM /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter
+cTouch /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004E77C2B90000000000000110
+t1316471481
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.h
+c000000004EAC274A000000000000012E
+t1319905098
+s302
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m
+c000000004EAC274A00000000000005C5
+t1319905098
+s1477
+i"IndexViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.xib
+c000000004EAC269200000000000051B8
+t1319904914
+s20920
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/UIProtoBetterAppDelegate.h
+c000000004EAC274A0000000000000193
+t1319905098
+s403
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/UIProtoBetterAppDelegate.m
+c000000004EAC274A0000000000000AE4
+t1319905098
+s2788
+i"UIProtoBetterAppDelegate.h"
+i"IndexViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/MainWindow.xib
+c000000004EAC25480000000000002126
+t1319904584
+s8486
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/UIProtoBetter_Prefix.pch
+c000000004EAC254800000000000000C3
+t1319904584
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app
+t1319905100
+s238
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app.dSYM
+t1319905100
+s102
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/IndexViewController.nib
+t1319905099
+s3376
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/Info.plist
+t1319905099
+s615
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/MainWindow.nib
+t1319905099
+s1537
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/PkgInfo
+t1319905099
+s8
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter
+t1319905100
+s17204
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/IndexViewController.o
+t1319905100
+s38148
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/UIProtoBetter.LinkFileList
+c000000004EAC274B00000000000001F7
+t1319905099
+s503
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/UIProtoBetterAppDelegate.o
+t1319905100
+s53328
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/main.o
+t1319905100
+s6356
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/main.m
+c000000004EAC2548000000000000017F
+t1319904584
+s383
+i<UIKit/UIKit.h>
+
+N/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch.gch
+t1319905100
+s15814064
+
+NUIProtoBetter-Info.plist
+c000000004EAC2548000000000000038D
+t1319904584
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies341597898#341597899#0(0"0(0#1#0"8622125952#0"0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/IndexViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341597900.283061
+e341597900.334337
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/IndexViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m:59: warning: incomplete implementation of class 'IndexViewController'
+o/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m:59: warning: method definition for '-pressStart' not found
+o/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m:59: warning: method definition for '-pressHelp' not found
+lSLF07#2@98"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m341597900#341597900#0(460"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m:59: warning: incomplete implementation of class 'IndexViewController'/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m:59: warning: method definition for '-pressStart' not found/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m:59: warning: method definition for '-pressHelp' not found3(22@56"Incomplete implementation of class 'IndexViewController'341597900#0#161#0(6@90"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m341597898#59#0#59#0#38"incomplete implementation of class '*'0(22@45"Method definition for '-pressStart' not found341597900#161#150#0(6@90"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m341597898#59#0#59#0#35"method definition for '*' not found0(22@44"Method definition for '-pressHelp' not found341597900#311#149#0(6@90"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m341597898#59#0#59#0#35"method definition for '*' not found0(0#0#90"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m8613592512#2314"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/IndexViewController.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/UIProtoBetterAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/UIProtoBetterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341597900.281406
+e341597900.345014
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/UIProtoBetterAppDelegate.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/UIProtoBetterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/UIProtoBetterAppDelegate.m341597900#341597900#0(0"0(0#0#95"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/UIProtoBetterAppDelegate.m8618855456#2324"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/UIProtoBetterAppDelegate.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/UIProtoBetterAppDelegate.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/main.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341597900.279928
+e341597900.326663
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/main.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/main.m341597900#341597900#0(0"0(0#0#67"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/main.m8622549568#2276"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/main.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.xib
+s341597899.270323
+e341597899.651968
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.xib
+lSLF07#2@42"CompileXIB Classes/IndexViewController.xib341597899#341597899#0(0"0(0#0#92"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.xib8617002368#668"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/IndexViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/MainWindow.xib
+s341597899.268314
+e341597899.604034
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib341597899#341597899#0(0"0(0#0#75"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/MainWindow.xib8606666720#642"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/MainWindow.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app.dSYM /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter
+s341597900.361404
+e341597900.373224
+r1
+xGenerateDSYMFile
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app.dSYM
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/UIProtoBetter.app.dSYM build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter341597900#341597900#0(0"0(0#0#120"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter8617486848#467"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app.dSYM0#
+
+CLd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter normal i386
+s341597900.345089
+e341597900.361321
+r1
+xLd
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter
+xnormal
+xi386
+lSLF07#2@125"Link /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter341597900#341597900#0(0"0(0#0#0"8621573600#1040"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -filelist /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/UIProtoBetter.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter0#
+
+CProcessInfoPlistFile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/Info.plist UIProtoBetter-Info.plist
+s341597899.264055
+e341597899.268096
+r1
+xProcessInfoPlistFile
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/Info.plist
+xUIProtoBetter-Info.plist
+lSLF07#2@32"Process UIProtoBetter-Info.plist341597899#341597899#0(0"0(0#0#85"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/UIProtoBetter-Info.plist8617500960#563"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIProtoBetter-Info.plist -genpkginfo /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/Info.plist0#
+
+CProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch.gch UIProtoBetter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s341597899.652079
+e341597900.279727
+r1
+xProcessPCH
+x/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch.gch
+xUIProtoBetter_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile UIProtoBetter_Prefix.pch341597899#341597900#0(0"0(0#0#85"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/UIProtoBetter_Prefix.pch8622433088#2140"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/UIProtoBetter_Prefix.pch -o /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch.gch0#
+
+CTouch /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app
+s341597900.373302
+e341597900.375249
+r1
+xTouch
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app
+lSLF07#2@112"Touch /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app341597900#341597900#0(0"0(0#0#0"8616900544#328"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app0#
+

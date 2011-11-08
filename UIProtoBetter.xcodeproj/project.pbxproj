@@ -1,0 +1,478 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* UIProtoBetterAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* UIProtoBetterAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD733E0D9D9553002E5188 /* MainWindow.xib */; };
+		72197DB0146593E2009E83DC /* CreationHelpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72197DAE146593E2009E83DC /* CreationHelpViewController.m */; };
+		72197DB1146593E2009E83DC /* CreationHelpViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72197DAF146593E2009E83DC /* CreationHelpViewController.xib */; };
+		72FE524C145C5DCC0001E0BD /* IndexViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE524A145C5DCC0001E0BD /* IndexViewController.m */; };
+		72FE524D145C5DCC0001E0BD /* IndexViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE524B145C5DCC0001E0BD /* IndexViewController.xib */; };
+		72FE5271145C5F850001E0BD /* HelpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE526F145C5F850001E0BD /* HelpViewController.m */; };
+		72FE5272145C5F850001E0BD /* HelpViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE5270145C5F850001E0BD /* HelpViewController.xib */; };
+		72FE5289145C612B0001E0BD /* MainMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE5287145C612B0001E0BD /* MainMenuViewController.m */; };
+		72FE528A145C612B0001E0BD /* MainMenuViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE5288145C612B0001E0BD /* MainMenuViewController.xib */; };
+		72FE52B6145C671F0001E0BD /* OfflineModeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE52B4145C671F0001E0BD /* OfflineModeViewController.m */; };
+		72FE52B7145C671F0001E0BD /* OfflineModeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE52B5145C671F0001E0BD /* OfflineModeViewController.xib */; };
+		72FE52D7145C68930001E0BD /* StashViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE52D5145C68930001E0BD /* StashViewController.m */; };
+		72FE52D8145C68930001E0BD /* StashViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE52D6145C68930001E0BD /* StashViewController.xib */; };
+		72FE52E9145C69090001E0BD /* badVirus.png in Resources */ = {isa = PBXBuildFile; fileRef = 72FE52E1145C69090001E0BD /* badVirus.png */; };
+		72FE52EA145C69090001E0BD /* flumask.png in Resources */ = {isa = PBXBuildFile; fileRef = 72FE52E2145C69090001E0BD /* flumask.png */; };
+		72FE52EB145C69090001E0BD /* potion.png in Resources */ = {isa = PBXBuildFile; fileRef = 72FE52E3145C69090001E0BD /* potion.png */; };
+		72FE52EC145C69090001E0BD /* potionround.png in Resources */ = {isa = PBXBuildFile; fileRef = 72FE52E4145C69090001E0BD /* potionround.png */; };
+		72FE52ED145C69090001E0BD /* potionround.xcf in Resources */ = {isa = PBXBuildFile; fileRef = 72FE52E5145C69090001E0BD /* potionround.xcf */; };
+		72FE52EE145C69090001E0BD /* shopkeaper.png in Resources */ = {isa = PBXBuildFile; fileRef = 72FE52E6145C69090001E0BD /* shopkeaper.png */; };
+		72FE52EF145C69090001E0BD /* stashCart.png in Resources */ = {isa = PBXBuildFile; fileRef = 72FE52E7145C69090001E0BD /* stashCart.png */; };
+		72FE52F0145C69090001E0BD /* storeTag.png in Resources */ = {isa = PBXBuildFile; fileRef = 72FE52E8145C69090001E0BD /* storeTag.png */; };
+		72FE52F7145C69930001E0BD /* StoreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE52F5145C69930001E0BD /* StoreViewController.m */; };
+		72FE52F8145C69930001E0BD /* StoreViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE52F6145C69930001E0BD /* StoreViewController.xib */; };
+		72FE5300145C6A3E0001E0BD /* FightViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE52FE145C6A3E0001E0BD /* FightViewController.m */; };
+		72FE5301145C6A3E0001E0BD /* FightViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE52FF145C6A3E0001E0BD /* FightViewController.xib */; };
+		72FE5314145C6D180001E0BD /* fightmeds.png in Resources */ = {isa = PBXBuildFile; fileRef = 72FE5313145C6D180001E0BD /* fightmeds.png */; };
+		72FE534B145C838E0001E0BD /* OnlineModeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE5349145C838E0001E0BD /* OnlineModeViewController.m */; };
+		72FE534C145C838E0001E0BD /* OnlineModeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE534A145C838E0001E0BD /* OnlineModeViewController.xib */; };
+		72FE5352145C844B0001E0BD /* goodVirus.png in Resources */ = {isa = PBXBuildFile; fileRef = 72FE5351145C844B0001E0BD /* goodVirus.png */; };
+		72FE5360145C89DE0001E0BD /* InfectListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE535E145C89DE0001E0BD /* InfectListViewController.m */; };
+		72FE5361145C89DE0001E0BD /* InfectListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE535F145C89DE0001E0BD /* InfectListViewController.xib */; };
+		72FE5369145C8D400001E0BD /* InfectResultsViewControllerModal.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE5367145C8D400001E0BD /* InfectResultsViewControllerModal.m */; };
+		72FE536A145C8D400001E0BD /* InfectResultsViewControllerModal.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE5368145C8D400001E0BD /* InfectResultsViewControllerModal.xib */; };
+		72FE540A145FB2AF0001E0BD /* CreationMenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE5408145FB2AF0001E0BD /* CreationMenuViewController.m */; };
+		72FE540B145FB2AF0001E0BD /* CreationMenuViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE5409145FB2AF0001E0BD /* CreationMenuViewController.xib */; };
+		72FE5413145FB47E0001E0BD /* CreationSkillViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE5411145FB47E0001E0BD /* CreationSkillViewController.m */; };
+		72FE5414145FB47E0001E0BD /* CreationSkillViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE5412145FB47E0001E0BD /* CreationSkillViewController.xib */; };
+		72FE541D145FB5CC0001E0BD /* CreateStatsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 72FE541B145FB5CC0001E0BD /* CreateStatsViewController.m */; };
+		72FE541E145FB5CC0001E0BD /* CreateStatsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 72FE541C145FB5CC0001E0BD /* CreateStatsViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* UIProtoBetterAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIProtoBetterAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* UIProtoBetterAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIProtoBetterAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* UIProtoBetter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIProtoBetter.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28AD733E0D9D9553002E5188 /* MainWindow.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainWindow.xib; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* UIProtoBetter_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIProtoBetter_Prefix.pch; sourceTree = "<group>"; };
+		72197DAD146593E2009E83DC /* CreationHelpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreationHelpViewController.h; sourceTree = "<group>"; };
+		72197DAE146593E2009E83DC /* CreationHelpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreationHelpViewController.m; sourceTree = "<group>"; };
+		72197DAF146593E2009E83DC /* CreationHelpViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = CreationHelpViewController.xib; path = Classes/CreationHelpViewController.xib; sourceTree = "<group>"; };
+		72FE5249145C5DCC0001E0BD /* IndexViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IndexViewController.h; sourceTree = "<group>"; };
+		72FE524A145C5DCC0001E0BD /* IndexViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IndexViewController.m; sourceTree = "<group>"; };
+		72FE524B145C5DCC0001E0BD /* IndexViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = IndexViewController.xib; path = Classes/IndexViewController.xib; sourceTree = "<group>"; };
+		72FE526E145C5F850001E0BD /* HelpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HelpViewController.h; sourceTree = "<group>"; };
+		72FE526F145C5F850001E0BD /* HelpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HelpViewController.m; sourceTree = "<group>"; };
+		72FE5270145C5F850001E0BD /* HelpViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = HelpViewController.xib; path = Classes/HelpViewController.xib; sourceTree = "<group>"; };
+		72FE5286145C612B0001E0BD /* MainMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainMenuViewController.h; sourceTree = "<group>"; };
+		72FE5287145C612B0001E0BD /* MainMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainMenuViewController.m; sourceTree = "<group>"; };
+		72FE5288145C612B0001E0BD /* MainMenuViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainMenuViewController.xib; path = Classes/MainMenuViewController.xib; sourceTree = "<group>"; };
+		72FE52B3145C671F0001E0BD /* OfflineModeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OfflineModeViewController.h; sourceTree = "<group>"; };
+		72FE52B4145C671F0001E0BD /* OfflineModeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OfflineModeViewController.m; sourceTree = "<group>"; };
+		72FE52B5145C671F0001E0BD /* OfflineModeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = OfflineModeViewController.xib; sourceTree = "<group>"; };
+		72FE52D4145C68930001E0BD /* StashViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StashViewController.h; sourceTree = "<group>"; };
+		72FE52D5145C68930001E0BD /* StashViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StashViewController.m; sourceTree = "<group>"; };
+		72FE52D6145C68930001E0BD /* StashViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = StashViewController.xib; sourceTree = "<group>"; };
+		72FE52E1145C69090001E0BD /* badVirus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = badVirus.png; sourceTree = "<group>"; };
+		72FE52E2145C69090001E0BD /* flumask.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flumask.png; sourceTree = "<group>"; };
+		72FE52E3145C69090001E0BD /* potion.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = potion.png; sourceTree = "<group>"; };
+		72FE52E4145C69090001E0BD /* potionround.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = potionround.png; sourceTree = "<group>"; };
+		72FE52E5145C69090001E0BD /* potionround.xcf */ = {isa = PBXFileReference; lastKnownFileType = file; path = potionround.xcf; sourceTree = "<group>"; };
+		72FE52E6145C69090001E0BD /* shopkeaper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = shopkeaper.png; sourceTree = "<group>"; };
+		72FE52E7145C69090001E0BD /* stashCart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = stashCart.png; sourceTree = "<group>"; };
+		72FE52E8145C69090001E0BD /* storeTag.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = storeTag.png; sourceTree = "<group>"; };
+		72FE52F4145C69930001E0BD /* StoreViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StoreViewController.h; sourceTree = "<group>"; };
+		72FE52F5145C69930001E0BD /* StoreViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StoreViewController.m; sourceTree = "<group>"; };
+		72FE52F6145C69930001E0BD /* StoreViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = StoreViewController.xib; sourceTree = "<group>"; };
+		72FE52FD145C6A3E0001E0BD /* FightViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FightViewController.h; sourceTree = "<group>"; };
+		72FE52FE145C6A3E0001E0BD /* FightViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FightViewController.m; sourceTree = "<group>"; };
+		72FE52FF145C6A3E0001E0BD /* FightViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FightViewController.xib; sourceTree = "<group>"; };
+		72FE5313145C6D180001E0BD /* fightmeds.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fightmeds.png; sourceTree = "<group>"; };
+		72FE5348145C838E0001E0BD /* OnlineModeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OnlineModeViewController.h; sourceTree = "<group>"; };
+		72FE5349145C838E0001E0BD /* OnlineModeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OnlineModeViewController.m; sourceTree = "<group>"; };
+		72FE534A145C838E0001E0BD /* OnlineModeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = OnlineModeViewController.xib; path = Classes/OnlineModeViewController.xib; sourceTree = "<group>"; };
+		72FE5351145C844B0001E0BD /* goodVirus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = goodVirus.png; sourceTree = "<group>"; };
+		72FE535D145C89DE0001E0BD /* InfectListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfectListViewController.h; sourceTree = "<group>"; };
+		72FE535E145C89DE0001E0BD /* InfectListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfectListViewController.m; sourceTree = "<group>"; };
+		72FE535F145C89DE0001E0BD /* InfectListViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = InfectListViewController.xib; path = Classes/InfectListViewController.xib; sourceTree = "<group>"; };
+		72FE5366145C8D400001E0BD /* InfectResultsViewControllerModal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfectResultsViewControllerModal.h; sourceTree = "<group>"; };
+		72FE5367145C8D400001E0BD /* InfectResultsViewControllerModal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfectResultsViewControllerModal.m; sourceTree = "<group>"; };
+		72FE5368145C8D400001E0BD /* InfectResultsViewControllerModal.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = InfectResultsViewControllerModal.xib; path = Classes/InfectResultsViewControllerModal.xib; sourceTree = "<group>"; };
+		72FE5407145FB2AF0001E0BD /* CreationMenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreationMenuViewController.h; sourceTree = "<group>"; };
+		72FE5408145FB2AF0001E0BD /* CreationMenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreationMenuViewController.m; sourceTree = "<group>"; };
+		72FE5409145FB2AF0001E0BD /* CreationMenuViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = CreationMenuViewController.xib; path = Classes/CreationMenuViewController.xib; sourceTree = "<group>"; };
+		72FE5410145FB47E0001E0BD /* CreationSkillViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreationSkillViewController.h; sourceTree = "<group>"; };
+		72FE5411145FB47E0001E0BD /* CreationSkillViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreationSkillViewController.m; sourceTree = "<group>"; };
+		72FE5412145FB47E0001E0BD /* CreationSkillViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = CreationSkillViewController.xib; path = Classes/CreationSkillViewController.xib; sourceTree = "<group>"; };
+		72FE541A145FB5CC0001E0BD /* CreateStatsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreateStatsViewController.h; sourceTree = "<group>"; };
+		72FE541B145FB5CC0001E0BD /* CreateStatsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreateStatsViewController.m; sourceTree = "<group>"; };
+		72FE541C145FB5CC0001E0BD /* CreateStatsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = CreateStatsViewController.xib; path = Classes/CreateStatsViewController.xib; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* UIProtoBetter-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "UIProtoBetter-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				72FE5405145FB2960001E0BD /* Creation */,
+				1D3623240D0F684500981E51 /* UIProtoBetterAppDelegate.h */,
+				1D3623250D0F684500981E51 /* UIProtoBetterAppDelegate.m */,
+				72FE5248145C5D0C0001E0BD /* Numbers */,
+				72FE5247145C5CEC0001E0BD /* OfflineMode */,
+				72FE5244145C5CDA0001E0BD /* OnlineMode */,
+				72FE5249145C5DCC0001E0BD /* IndexViewController.h */,
+				72FE524A145C5DCC0001E0BD /* IndexViewController.m */,
+				72FE526E145C5F850001E0BD /* HelpViewController.h */,
+				72FE526F145C5F850001E0BD /* HelpViewController.m */,
+				72FE5286145C612B0001E0BD /* MainMenuViewController.h */,
+				72FE5287145C612B0001E0BD /* MainMenuViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* UIProtoBetter.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				72FE52DF145C68DE0001E0BD /* Images */,
+				32CA4F630368D1EE00C91783 /* UIProtoBetter_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				72197DAF146593E2009E83DC /* CreationHelpViewController.xib */,
+				72FE541C145FB5CC0001E0BD /* CreateStatsViewController.xib */,
+				72FE5412145FB47E0001E0BD /* CreationSkillViewController.xib */,
+				72FE5409145FB2AF0001E0BD /* CreationMenuViewController.xib */,
+				72FE5368145C8D400001E0BD /* InfectResultsViewControllerModal.xib */,
+				72FE535F145C89DE0001E0BD /* InfectListViewController.xib */,
+				72FE534A145C838E0001E0BD /* OnlineModeViewController.xib */,
+				72FE52F6145C69930001E0BD /* StoreViewController.xib */,
+				72FE52FF145C6A3E0001E0BD /* FightViewController.xib */,
+				72FE52D6145C68930001E0BD /* StashViewController.xib */,
+				72FE52B5145C671F0001E0BD /* OfflineModeViewController.xib */,
+				72FE5288145C612B0001E0BD /* MainMenuViewController.xib */,
+				72FE5270145C5F850001E0BD /* HelpViewController.xib */,
+				72FE524B145C5DCC0001E0BD /* IndexViewController.xib */,
+				28AD733E0D9D9553002E5188 /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* UIProtoBetter-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765FC0DF74451002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		72FE5244145C5CDA0001E0BD /* OnlineMode */ = {
+			isa = PBXGroup;
+			children = (
+				72FE5348145C838E0001E0BD /* OnlineModeViewController.h */,
+				72FE5349145C838E0001E0BD /* OnlineModeViewController.m */,
+				72FE535D145C89DE0001E0BD /* InfectListViewController.h */,
+				72FE535E145C89DE0001E0BD /* InfectListViewController.m */,
+				72FE5366145C8D400001E0BD /* InfectResultsViewControllerModal.h */,
+				72FE5367145C8D400001E0BD /* InfectResultsViewControllerModal.m */,
+			);
+			name = OnlineMode;
+			sourceTree = "<group>";
+		};
+		72FE5247145C5CEC0001E0BD /* OfflineMode */ = {
+			isa = PBXGroup;
+			children = (
+				72FE52B3145C671F0001E0BD /* OfflineModeViewController.h */,
+				72FE52B4145C671F0001E0BD /* OfflineModeViewController.m */,
+				72FE52D4145C68930001E0BD /* StashViewController.h */,
+				72FE52D5145C68930001E0BD /* StashViewController.m */,
+				72FE52F4145C69930001E0BD /* StoreViewController.h */,
+				72FE52F5145C69930001E0BD /* StoreViewController.m */,
+				72FE52FD145C6A3E0001E0BD /* FightViewController.h */,
+				72FE52FE145C6A3E0001E0BD /* FightViewController.m */,
+			);
+			name = OfflineMode;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		72FE5248145C5D0C0001E0BD /* Numbers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Numbers;
+			sourceTree = "<group>";
+		};
+		72FE52DF145C68DE0001E0BD /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				72FE52E0145C69090001E0BD /* Images */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		72FE52E0145C69090001E0BD /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				72FE5351145C844B0001E0BD /* goodVirus.png */,
+				72FE5313145C6D180001E0BD /* fightmeds.png */,
+				72FE52E1145C69090001E0BD /* badVirus.png */,
+				72FE52E2145C69090001E0BD /* flumask.png */,
+				72FE52E3145C69090001E0BD /* potion.png */,
+				72FE52E4145C69090001E0BD /* potionround.png */,
+				72FE52E5145C69090001E0BD /* potionround.xcf */,
+				72FE52E6145C69090001E0BD /* shopkeaper.png */,
+				72FE52E7145C69090001E0BD /* stashCart.png */,
+				72FE52E8145C69090001E0BD /* storeTag.png */,
+			);
+			name = Images;
+			path = ../Images;
+			sourceTree = SOURCE_ROOT;
+		};
+		72FE5405145FB2960001E0BD /* Creation */ = {
+			isa = PBXGroup;
+			children = (
+				72FE5407145FB2AF0001E0BD /* CreationMenuViewController.h */,
+				72FE5408145FB2AF0001E0BD /* CreationMenuViewController.m */,
+				72FE5410145FB47E0001E0BD /* CreationSkillViewController.h */,
+				72FE5411145FB47E0001E0BD /* CreationSkillViewController.m */,
+				72FE541A145FB5CC0001E0BD /* CreateStatsViewController.h */,
+				72FE541B145FB5CC0001E0BD /* CreateStatsViewController.m */,
+				72197DAD146593E2009E83DC /* CreationHelpViewController.h */,
+				72197DAE146593E2009E83DC /* CreationHelpViewController.m */,
+			);
+			name = Creation;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* UIProtoBetter */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "UIProtoBetter" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = UIProtoBetter;
+			productName = UIProtoBetter;
+			productReference = 1D6058910D05DD3D006BFB54 /* UIProtoBetter.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "UIProtoBetter" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* UIProtoBetter */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				28AD733F0D9D9553002E5188 /* MainWindow.xib in Resources */,
+				72FE524D145C5DCC0001E0BD /* IndexViewController.xib in Resources */,
+				72FE5272145C5F850001E0BD /* HelpViewController.xib in Resources */,
+				72FE528A145C612B0001E0BD /* MainMenuViewController.xib in Resources */,
+				72FE52B7145C671F0001E0BD /* OfflineModeViewController.xib in Resources */,
+				72FE52D8145C68930001E0BD /* StashViewController.xib in Resources */,
+				72FE52E9145C69090001E0BD /* badVirus.png in Resources */,
+				72FE52EA145C69090001E0BD /* flumask.png in Resources */,
+				72FE52EB145C69090001E0BD /* potion.png in Resources */,
+				72FE52EC145C69090001E0BD /* potionround.png in Resources */,
+				72FE52ED145C69090001E0BD /* potionround.xcf in Resources */,
+				72FE52EE145C69090001E0BD /* shopkeaper.png in Resources */,
+				72FE52EF145C69090001E0BD /* stashCart.png in Resources */,
+				72FE52F0145C69090001E0BD /* storeTag.png in Resources */,
+				72FE52F8145C69930001E0BD /* StoreViewController.xib in Resources */,
+				72FE5301145C6A3E0001E0BD /* FightViewController.xib in Resources */,
+				72FE5314145C6D180001E0BD /* fightmeds.png in Resources */,
+				72FE534C145C838E0001E0BD /* OnlineModeViewController.xib in Resources */,
+				72FE5352145C844B0001E0BD /* goodVirus.png in Resources */,
+				72FE5361145C89DE0001E0BD /* InfectListViewController.xib in Resources */,
+				72FE536A145C8D400001E0BD /* InfectResultsViewControllerModal.xib in Resources */,
+				72FE540B145FB2AF0001E0BD /* CreationMenuViewController.xib in Resources */,
+				72FE5414145FB47E0001E0BD /* CreationSkillViewController.xib in Resources */,
+				72FE541E145FB5CC0001E0BD /* CreateStatsViewController.xib in Resources */,
+				72197DB1146593E2009E83DC /* CreationHelpViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* UIProtoBetterAppDelegate.m in Sources */,
+				72FE524C145C5DCC0001E0BD /* IndexViewController.m in Sources */,
+				72FE5271145C5F850001E0BD /* HelpViewController.m in Sources */,
+				72FE5289145C612B0001E0BD /* MainMenuViewController.m in Sources */,
+				72FE52B6145C671F0001E0BD /* OfflineModeViewController.m in Sources */,
+				72FE52D7145C68930001E0BD /* StashViewController.m in Sources */,
+				72FE52F7145C69930001E0BD /* StoreViewController.m in Sources */,
+				72FE5300145C6A3E0001E0BD /* FightViewController.m in Sources */,
+				72FE534B145C838E0001E0BD /* OnlineModeViewController.m in Sources */,
+				72FE5360145C89DE0001E0BD /* InfectListViewController.m in Sources */,
+				72FE5369145C8D400001E0BD /* InfectResultsViewControllerModal.m in Sources */,
+				72FE540A145FB2AF0001E0BD /* CreationMenuViewController.m in Sources */,
+				72FE5413145FB47E0001E0BD /* CreationSkillViewController.m in Sources */,
+				72FE541D145FB5CC0001E0BD /* CreateStatsViewController.m in Sources */,
+				72197DB0146593E2009E83DC /* CreationHelpViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = UIProtoBetter_Prefix.pch;
+				INFOPLIST_FILE = "UIProtoBetter-Info.plist";
+				PRODUCT_NAME = UIProtoBetter;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = UIProtoBetter_Prefix.pch;
+				INFOPLIST_FILE = "UIProtoBetter-Info.plist";
+				PRODUCT_NAME = UIProtoBetter;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "UIProtoBetter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "UIProtoBetter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

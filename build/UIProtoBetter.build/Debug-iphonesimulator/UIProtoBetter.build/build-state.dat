@@ -1,0 +1,1178 @@
+TUIProtoBetter
+v7
+r0
+t342208599.148302
+cCheck dependencies
+cProcessInfoPlistFile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/Info.plist UIProtoBetter-Info.plist
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/MainWindow.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/HelpViewController.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/MainMenuViewController.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/OfflineModeViewController.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/StashViewController.xib
+cCpResource build/Debug-iphonesimulator/UIProtoBetter.app/badVirus.png ../Images/badVirus.png
+cCpResource build/Debug-iphonesimulator/UIProtoBetter.app/flumask.png ../Images/flumask.png
+cCpResource build/Debug-iphonesimulator/UIProtoBetter.app/potion.png ../Images/potion.png
+cCpResource build/Debug-iphonesimulator/UIProtoBetter.app/potionround.png ../Images/potionround.png
+cCpResource build/Debug-iphonesimulator/UIProtoBetter.app/potionround.xcf ../Images/potionround.xcf
+cCpResource build/Debug-iphonesimulator/UIProtoBetter.app/shopkeaper.png ../Images/shopkeaper.png
+cCpResource build/Debug-iphonesimulator/UIProtoBetter.app/stashCart.png ../Images/stashCart.png
+cCpResource build/Debug-iphonesimulator/UIProtoBetter.app/storeTag.png ../Images/storeTag.png
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/StoreViewController.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/FightViewController.xib
+cCpResource build/Debug-iphonesimulator/UIProtoBetter.app/fightmeds.png ../Images/fightmeds.png
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/OnlineModeViewController.xib
+cCpResource build/Debug-iphonesimulator/UIProtoBetter.app/goodVirus.png ../Images/goodVirus.png
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectListViewController.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectResultsViewControllerModal.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationMenuViewController.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationSkillViewController.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreateStatsViewController.xib
+cCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationHelpViewController.xib
+cProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch.gch UIProtoBetter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/main.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/UIProtoBetterAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/UIProtoBetterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/IndexViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/HelpViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/HelpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/MainMenuViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/MainMenuViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/OfflineModeViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineModeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/StashViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StashViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/StoreViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StoreViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/FightViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../FightViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/OnlineModeViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/OnlineModeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/InfectListViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/InfectResultsViewControllerModal.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectResultsViewControllerModal.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreationMenuViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationMenuViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreationSkillViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationSkillViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreateStatsViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreateStatsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreationHelpViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationHelpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter normal i386
+cGenerateDSYMFile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app.dSYM /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter
+cTouch /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004E77C2B90000000000000110
+t1316471481
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/badVirus.png
+c000000004EABC3DB0000000000009984
+t1319879643
+s39300
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/fightmeds.png
+c000000004CB8B4EC0000000000000BA5
+t1287173356
+s2981
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/flumask.png
+c000000004EABC2F5000000000000152A
+t1319879413
+s5418
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/goodVirus.png
+c000000004EAC4C8E000000000000699C
+t1319914638
+s27036
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/potion.png
+c000000004EABC37A0000000000002778
+t1319879546
+s10104
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/potionround.png
+c000000004EABCE2600000000000031CC
+t1319882278
+s12748
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/potionround.xcf
+c000000004EABCDCC0000000000004BC1
+t1319882188
+s19393
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/shopkeaper.png
+c000000004EABC4870000000000008D40
+t1319879815
+s36160
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/stashCart.png
+c000000004CB8B4EC0000000000000B93
+t1287173356
+s2963
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/storeTag.png
+c000000004CB8B4D60000000000000C0E
+t1287173334
+s3086
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../FightViewController.m
+c000000004EAC32BE00000000000005C5
+t1319908030
+s1477
+i"FightViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../FightViewController.xib
+c000000004EAC33370000000000004C04
+t1319908151
+s19460
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineMenu.m
+c000000004EAC2E5D00000000000005AD
+t1319906909
+s1453
+i"OfflineMenu.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineMenu.xib
+c000000004EAC2E990000000000004748
+t1319906969
+s18248
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineModeViewController.h
+c000000004EAC4AD20000000000000150
+t1319914194
+s336
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineModeViewController.m
+c000000004EAC4AEA0000000000000874
+t1319914218
+s2164
+i"OfflineModeViewController.h"
+i"StashViewController.h"
+i"StoreViewController.h"
+i"FightViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineModeViewController.xib
+c000000004EAC2FDC000000000000484E
+t1319907292
+s18510
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StashViewController.m
+c000000004EAC311300000000000005C5
+t1319907603
+s1477
+i"StashViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StashViewController.xib
+c000000004EAC31130000000000001874
+t1319907603
+s6260
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StoreViewController.m
+c000000004EAC321300000000000005C5
+t1319907859
+s1477
+i"StoreViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StoreViewController.xib
+c000000004EAC32130000000000001874
+t1319907859
+s6260
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreateStatsViewController.h
+c000000004EB5719700000000000002E7
+t1320513943
+s743
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreateStatsViewController.m
+c000000004EB578D30000000000000C0B
+t1320515795
+s3083
+i"CreateStatsViewController.h"
+i"CreationMenuViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreateStatsViewController.xib
+c000000004EB5720A0000000000007A85
+t1320514058
+s31365
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationHelpViewController.h
+c000000004EB563000000000000000124
+t1320510208
+s292
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationHelpViewController.m
+c000000004EB563000000000000000623
+t1320510208
+s1571
+i"CreationHelpViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationHelpViewController.xib
+c000000004EB563390000000000007372
+t1320510265
+s29554
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationMenuViewController.h
+c000000004EB575830000000000000157
+t1320514947
+s343
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationMenuViewController.m
+c000000004EB5755000000000000007A1
+t1320514896
+s1953
+i"CreationMenuViewController.h"
+i"CreationSkillViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationMenuViewController.xib
+c000000004EB5634C000000000000540E
+t1320510284
+s21518
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationSkillViewController.h
+c000000004EB573250000000000000155
+t1320514341
+s341
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationSkillViewController.m
+c000000004EB578B300000000000008A1
+t1320515763
+s2209
+i"CreationSkillViewController.h"
+i"CreationHelpViewController.h"
+i"CreateStatsViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationSkillViewController.xib
+c000000004EB56978000000000000759B
+t1320511864
+s30107
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/HelpViewController.h
+c000000004EAC280500000000000000FE
+t1319905285
+s254
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/HelpViewController.m
+c000000004EAC280500000000000005C2
+t1319905285
+s1474
+i"HelpViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/HelpViewController.xib
+c000000004EAC2854000000000000424E
+t1319905364
+s16974
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.h
+c000000004EAC274A000000000000012E
+t1319905098
+s302
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m
+c000000004EAC2AFC00000000000007E8
+t1319906044
+s2024
+i"IndexViewController.h"
+i"HelpViewController.h"
+i"MainMenuViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.xib
+c000000004EAC2B990000000000005971
+t1319906201
+s22897
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectListViewController.h
+c000000004EAC55DA0000000000000167
+t1319917018
+s359
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectListViewController.m
+c000000004EAC5B46000000000000085D
+t1319918406
+s2141
+i"InfectListViewController.h"
+i"InfectResultsViewControllerModal.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectListViewController.xib
+c000000004EAC564D000000000000661B
+t1319917133
+s26139
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectResultsViewControllerModal.h
+c000000004EAC5B5B0000000000000184
+t1319918427
+s388
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectResultsViewControllerModal.m
+c000000004EAC5B5B0000000000000660
+t1319918427
+s1632
+i"InfectResultsViewControllerModal.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectResultsViewControllerModal.xib
+c000000004EAC575D00000000000051BB
+t1319917405
+s20923
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/MainMenuViewController.h
+c000000004EB54BC4000000000000018F
+t1320504260
+s399
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/MainMenuViewController.m
+c000000004EB54EFE00000000000009C4
+t1320505086
+s2500
+i"MainMenuViewController.h"
+i"OfflineModeViewController.h"
+i"OnlineModeViewController.h"
+i"CreationMenuViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/MainMenuViewController.xib
+c000000004EB54F2B000000000000665E
+t1320505131
+s26206
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/OnlineModeViewController.h
+c000000004EAC55DA0000000000000123
+t1319917018
+s291
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/OnlineModeViewController.m
+c000000004EAC55DA00000000000006D5
+t1319917018
+s1749
+i"OnlineModeViewController.h"
+i"InfectListViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/OnlineModeViewController.xib
+c000000004EAC55F30000000000005F87
+t1319917043
+s24455
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/UIProtoBetterAppDelegate.h
+c000000004EAC274A0000000000000193
+t1319905098
+s403
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/UIProtoBetterAppDelegate.m
+c000000004EAC27DA0000000000000B2C
+t1319905242
+s2860
+i"UIProtoBetterAppDelegate.h"
+i"IndexViewController.h"
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/FightViewController.h
+c000000004EAC32BE0000000000000100
+t1319908030
+s256
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/FightViewController.xib
+c000000004EAC33370000000000004C04
+t1319908151
+s19460
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/MainWindow.xib
+c000000004EAC25480000000000002126
+t1319904584
+s8486
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/OfflineMenu.h
+c000000004EAC2F4A0000000000000110
+t1319907146
+s272
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/OfflineModeViewController.h
+c000000004EAC4AD20000000000000150
+t1319914194
+s336
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/OfflineModeViewController.xib
+c000000004EAC4B1C00000000000075FF
+t1319914268
+s30207
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/StashViewController.h
+c000000004EAC31130000000000000100
+t1319907603
+s256
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/StashViewController.xib
+c000000004EAC31F60000000000006283
+t1319907830
+s25219
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/StoreViewController.h
+c000000004EAC32130000000000000100
+t1319907859
+s256
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/StoreViewController.xib
+c000000004EAC329F00000000000053ED
+t1319907999
+s21485
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/UIProtoBetter_Prefix.pch
+c000000004EAC254800000000000000C3
+t1319904584
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app
+t1320515795
+s1054
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app.dSYM
+t1320515795
+s102
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/CreateStatsViewController.nib
+t1320514062
+s4703
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/CreationHelpViewController.nib
+t1320510291
+s4987
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/CreationMenuViewController.nib
+t1320510291
+s3222
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/CreationSkillViewController.nib
+t1320511869
+s5782
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/FightViewController.nib
+t1319908774
+s2649
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/HelpViewController.nib
+t1319905497
+s2025
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/IndexViewController.nib
+t1319906221
+s3636
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/InfectListViewController.nib
+t1319917354
+s4304
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/InfectResultsViewControllerModal.nib
+t1319917693
+s3367
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/Info.plist
+t1319905099
+s615
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/MainMenuViewController.nib
+t1320505136
+s3851
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/MainWindow.nib
+t1319905099
+s1537
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/OfflineMenu.nib
+t1319907146
+s2174
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/OfflineModeViewController.nib
+t1319914272
+s4969
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/OnlineModeViewController.nib
+t1319917354
+s4120
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/PkgInfo
+t1319905099
+s8
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/StashViewController.nib
+t1319908374
+s4216
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/StoreViewController.nib
+t1319908374
+s3583
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter
+t1320515795
+s52380
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/badVirus.png
+t1319907734
+s39300
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/fightmeds.png
+t1319908774
+s2981
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/flumask.png
+t1319907734
+s5418
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/goodVirus.png
+t1319915056
+s27036
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/potion.png
+t1319907734
+s10104
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/potionround.png
+t1319907734
+s12748
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/potionround.xcf
+t1319907734
+s19393
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/shopkeaper.png
+t1319907734
+s36160
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/stashCart.png
+t1319907734
+s2963
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/storeTag.png
+t1319907734
+s3086
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreateStatsViewController.o
+t1320515795
+s49776
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreationHelpViewController.o
+t1320510209
+s38876
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreationMenuViewController.o
+t1320514947
+s40844
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreationSkillViewController.o
+t1320515763
+s43388
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/FightViewController.o
+t1319908374
+s38156
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/HelpViewController.o
+t1319905497
+s38128
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/IndexViewController.o
+t1320504260
+s40960
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/InfectListViewController.o
+t1319918427
+s41440
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/InfectResultsViewControllerModal.o
+t1319918427
+s41568
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/MainMenuViewController.o
+t1320514947
+s42316
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/OfflineMenu.o
+t1319907146
+s40896
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/OfflineModeViewController.o
+t1319914218
+s42596
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/OnlineModeViewController.o
+t1319917018
+s40096
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/StashViewController.o
+t1319907734
+s38156
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/StoreViewController.o
+t1319908374
+s38156
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/UIProtoBetter.LinkFileList
+c000000004EB560BF0000000000000AE1
+t1320509631
+s2785
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/UIProtoBetterAppDelegate.o
+t1319905242
+s53708
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/main.o
+t1319905100
+s6356
+
+N/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/main.m
+c000000004EAC2548000000000000017F
+t1319904584
+s383
+i<UIKit/UIKit.h>
+
+N/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch.gch
+t1319905100
+s15814064
+
+NUIProtoBetter-Info.plist
+c000000004EAC2548000000000000038D
+t1319904584
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies342208599#342208599#0(0"0(0#1#0"8614629568#0"0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreateStatsViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreateStatsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342208595.404602
+e342208595.480980
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreateStatsViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreateStatsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreateStatsViewController.m342208595#342208595#0(0"0(0#0#96"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreateStatsViewController.m8617698368#2326"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreateStatsViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreateStatsViewController.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreationHelpViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationHelpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342203009.030840
+e342203009.104290
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreationHelpViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationHelpViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationHelpViewController.m342203009#342203009#0(0"0(0#0#97"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationHelpViewController.m8612862592#2328"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationHelpViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreationHelpViewController.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreationMenuViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationMenuViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342207747.826660
+e342207747.919983
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreationMenuViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationMenuViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationMenuViewController.m342207747#342207747#0(0"0(0#0#97"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationMenuViewController.m8602598176#2328"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationMenuViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreationMenuViewController.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreationSkillViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationSkillViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342208563.641644
+e342208563.749559
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreationSkillViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationSkillViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationSkillViewController.m342208563#342208563#0(0"0(0#0#98"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationSkillViewController.m8616433184#2330"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationSkillViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/CreationSkillViewController.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/FightViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../FightViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341601174.591048
+e341601174.647167
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/FightViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../FightViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../FightViewController.m341601174#341601174#0(0"0(0#0#93"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../FightViewController.m8616806720#2317"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../FightViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/FightViewController.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/HelpViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/HelpViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341598297.277212
+e341598297.321043
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/HelpViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/HelpViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/HelpViewController.m341598297#341598297#0(0"0(0#0#89"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/HelpViewController.m8617014368#2312"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/HelpViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/HelpViewController.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/IndexViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342197060.607857
+e342197060.709421
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/IndexViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m342197060#342197060#0(0"0(0#0#90"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m8600085248#2314"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/IndexViewController.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/InfectListViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectListViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341611227.323492
+e341611227.390085
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/InfectListViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectListViewController.m341611227#341611227#0(0"0(0#0#95"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectListViewController.m8618291360#2324"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectListViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/InfectListViewController.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/InfectResultsViewControllerModal.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectResultsViewControllerModal.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341611227.325122
+e341611227.381970
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/InfectResultsViewControllerModal.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectResultsViewControllerModal.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@111"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectResultsViewControllerModal.m341611227#341611227#0(0"0(0#0#103"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectResultsViewControllerModal.m8617856480#2340"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectResultsViewControllerModal.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/InfectResultsViewControllerModal.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/MainMenuViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/MainMenuViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s342207747.824777
+e342207747.920264
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/MainMenuViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/MainMenuViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/MainMenuViewController.m342207747#342207747#0(0"0(0#0#93"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/MainMenuViewController.m8616267296#2320"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/MainMenuViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/MainMenuViewController.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/OfflineMenu.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineMenu.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341599946.809052
+e341599946.856780
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/OfflineMenu.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineMenu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineMenu.m341599946#341599946#0(0"0(0#0#85"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineMenu.m8618752704#2301"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineMenu.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/OfflineMenu.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/OfflineModeViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineModeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341607018.470768
+e341607018.615059
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/OfflineModeViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineModeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineModeViewController.m341607018#341607018#0(0"0(0#0#99"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineModeViewController.m8618653952#2329"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineModeViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/OfflineModeViewController.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/OnlineModeViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/OnlineModeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341609818.685087
+e341609818.772813
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/OnlineModeViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/OnlineModeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/OnlineModeViewController.m341609818#341609818#0(0"0(0#0#95"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/OnlineModeViewController.m8617785568#2324"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/OnlineModeViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/OnlineModeViewController.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/StashViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StashViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341600534.519283
+e341600534.577039
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/StashViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StashViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StashViewController.m341600534#341600534#0(0"0(0#0#93"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StashViewController.m8617744640#2317"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StashViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/StashViewController.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/StoreViewController.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StoreViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341601174.590382
+e341601174.647685
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/StoreViewController.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StoreViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@101"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StoreViewController.m341601174#341601174#0(0"0(0#0#93"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StoreViewController.m8618834624#2317"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StoreViewController.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/StoreViewController.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/UIProtoBetterAppDelegate.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/UIProtoBetterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341598042.677643
+e341598042.738097
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/UIProtoBetterAppDelegate.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/UIProtoBetterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/UIProtoBetterAppDelegate.m341598042#341598042#0(0"0(0#0#95"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/UIProtoBetterAppDelegate.m8618442912#2324"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/UIProtoBetterAppDelegate.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/UIProtoBetterAppDelegate.o0#
+
+CCompileC build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/main.o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341597900.279928
+e341597900.326663
+r1
+xCompileC
+xbuild/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/main.o
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/main.m341597900#341597900#0(0"0(0#0#67"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/main.m8622549568#2276"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -include /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/main.m -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../FightViewController.xib
+s341601174.129502
+e341601174.568866
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../FightViewController.xib
+lSLF07#2@45"CompileXIB Classes/../FightViewController.xib341601174#341601174#0(0"0(0#0#95"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../FightViewController.xib8617898368#671"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/FightViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../FightViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineMenu.xib
+s341599946.450727
+e341599946.807298
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineMenu.xib
+lSLF07#2@37"CompileXIB Classes/../OfflineMenu.xib341599946#341599946#0(0"0(0#0#87"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineMenu.xib8607194528#655"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/OfflineMenu.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineMenu.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineModeViewController.xib
+s341600100.711363
+e341600101.050912
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineModeViewController.xib
+lSLF07#2@51"CompileXIB Classes/../OfflineModeViewController.xib341600100#341600101#0(0"0(0#0#101"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineModeViewController.xib8614789216#683"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/OfflineModeViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../OfflineModeViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StashViewController.xib
+r0
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/../StoreViewController.xib
+r0
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreateStatsViewController.xib
+s342206862.323484
+e342206863.017518
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreateStatsViewController.xib
+lSLF07#2@48"CompileXIB Classes/CreateStatsViewController.xib342206862#342206863#0(0"0(0#0#98"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreateStatsViewController.xib8604527328#680"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/CreateStatsViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreateStatsViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationHelpViewController.xib
+s342203091.301045
+e342203091.810162
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationHelpViewController.xib
+lSLF07#2@49"CompileXIB Classes/CreationHelpViewController.xib342203091#342203091#0(0"0(0#0#99"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationHelpViewController.xib8613891488#682"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/CreationHelpViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationHelpViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationMenuViewController.xib
+s342203091.300018
+e342203091.776928
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationMenuViewController.xib
+lSLF07#2@49"CompileXIB Classes/CreationMenuViewController.xib342203091#342203091#0(0"0(0#0#99"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationMenuViewController.xib8601069344#682"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/CreationMenuViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationMenuViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationSkillViewController.xib
+s342204669.125431
+e342204670.048425
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationSkillViewController.xib
+lSLF07#2@50"CompileXIB Classes/CreationSkillViewController.xib342204669#342204670#0(0"0(0#0#100"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationSkillViewController.xib8614556288#684"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/CreationSkillViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/CreationSkillViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/HelpViewController.xib
+s341598296.929125
+e341598297.276102
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/HelpViewController.xib
+lSLF07#2@41"CompileXIB Classes/HelpViewController.xib341598296#341598297#0(0"0(0#0#91"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/HelpViewController.xib8617547520#666"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/HelpViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/HelpViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.xib
+s341599020.949359
+e341599021.334085
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.xib
+lSLF07#2@42"CompileXIB Classes/IndexViewController.xib341599020#341599021#0(0"0(0#0#92"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.xib8617165856#668"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/IndexViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/IndexViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectListViewController.xib
+s341610154.337733
+e341610154.835269
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectListViewController.xib
+lSLF07#2@47"CompileXIB Classes/InfectListViewController.xib341610154#341610154#0(0"0(0#0#97"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectListViewController.xib8622149440#678"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/InfectListViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectListViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectResultsViewControllerModal.xib
+s341610492.941860
+e341610493.340475
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectResultsViewControllerModal.xib
+lSLF07#2@55"CompileXIB Classes/InfectResultsViewControllerModal.xib341610492#341610493#0(0"0(0#0#105"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectResultsViewControllerModal.xib8624885184#694"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/InfectResultsViewControllerModal.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/InfectResultsViewControllerModal.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/MainMenuViewController.xib
+s342197936.232690
+e342197936.772940
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/MainMenuViewController.xib
+lSLF07#2@45"CompileXIB Classes/MainMenuViewController.xib342197936#342197936#0(0"0(0#0#95"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/MainMenuViewController.xib8612301696#674"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/MainMenuViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/MainMenuViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/OnlineModeViewController.xib
+s341610154.337074
+e341610154.829938
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/OnlineModeViewController.xib
+lSLF07#2@47"CompileXIB Classes/OnlineModeViewController.xib341610154#341610154#0(0"0(0#0#97"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/OnlineModeViewController.xib8617648736#678"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/OnlineModeViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/Classes/OnlineModeViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/FightViewController.xib
+s341601574.009400
+e341601574.363012
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/FightViewController.xib
+lSLF07#2@34"CompileXIB FightViewController.xib341601574#341601574#0(0"0(0#0#84"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/FightViewController.xib8598833792#660"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/FightViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/FightViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/MainWindow.xib
+s341597899.268314
+e341597899.604034
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib341597899#341597899#0(0"0(0#0#75"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/MainWindow.xib8606666720#642"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/MainWindow.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/OfflineModeViewController.xib
+s341607072.552640
+e341607072.968379
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/OfflineModeViewController.xib
+lSLF07#2@40"CompileXIB OfflineModeViewController.xib341607072#341607072#0(0"0(0#0#90"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/OfflineModeViewController.xib8601085120#672"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/OfflineModeViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/OfflineModeViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/StashViewController.xib
+s341601174.127441
+e341601174.588918
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/StashViewController.xib
+lSLF07#2@34"CompileXIB StashViewController.xib341601174#341601174#0(0"0(0#0#84"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/StashViewController.xib8621732224#660"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/StashViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/StashViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/StoreViewController.xib
+s341601174.128745
+e341601174.581497
+r1
+xCompileXIB
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/StoreViewController.xib
+lSLF07#2@34"CompileXIB StoreViewController.xib341601174#341601174#0(0"0(0#0#84"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/StoreViewController.xib8618753408#660"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/StoreViewController.nib /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/StoreViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCpResource build/Debug-iphonesimulator/UIProtoBetter.app/badVirus.png ../Images/badVirus.png
+s341600534.127317
+e341600534.150888
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIProtoBetter.app/badVirus.png
+x../Images/badVirus.png
+lSLF07#2@27"Copy ../Images/badVirus.png341600534#341600534#0(0"0(0#0#83"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/badVirus.png8606145056#552"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/badVirus.png /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app0#
+
+CCpResource build/Debug-iphonesimulator/UIProtoBetter.app/fightmeds.png ../Images/fightmeds.png
+s341601574.009977
+e341601574.013328
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIProtoBetter.app/fightmeds.png
+x../Images/fightmeds.png
+lSLF07#2@28"Copy ../Images/fightmeds.png341601574#341601574#0(0"0(0#0#84"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/fightmeds.png8618375264#553"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/fightmeds.png /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app0#
+
+CCpResource build/Debug-iphonesimulator/UIProtoBetter.app/flumask.png ../Images/flumask.png
+s341600534.129008
+e341600534.154397
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIProtoBetter.app/flumask.png
+x../Images/flumask.png
+lSLF07#2@26"Copy ../Images/flumask.png341600534#341600534#0(0"0(0#0#82"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/flumask.png8613800672#551"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/flumask.png /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app0#
+
+CCpResource build/Debug-iphonesimulator/UIProtoBetter.app/goodVirus.png ../Images/goodVirus.png
+s341607856.947168
+e341607856.964592
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIProtoBetter.app/goodVirus.png
+x../Images/goodVirus.png
+lSLF07#2@28"Copy ../Images/goodVirus.png341607856#341607856#0(0"0(0#0#84"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/goodVirus.png8616145536#553"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/goodVirus.png /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app0#
+
+CCpResource build/Debug-iphonesimulator/UIProtoBetter.app/potion.png ../Images/potion.png
+s341600534.130918
+e341600534.159643
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIProtoBetter.app/potion.png
+x../Images/potion.png
+lSLF07#2@25"Copy ../Images/potion.png341600534#341600534#0(0"0(0#0#81"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/potion.png8615388160#550"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/potion.png /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app0#
+
+CCpResource build/Debug-iphonesimulator/UIProtoBetter.app/potionround.png ../Images/potionround.png
+s341600534.139315
+e341600534.157247
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIProtoBetter.app/potionround.png
+x../Images/potionround.png
+lSLF07#2@30"Copy ../Images/potionround.png341600534#341600534#0(0"0(0#0#86"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/potionround.png8619002464#555"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/potionround.png /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app0#
+
+CCpResource build/Debug-iphonesimulator/UIProtoBetter.app/potionround.xcf ../Images/potionround.xcf
+s341600534.141241
+e341600534.157514
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIProtoBetter.app/potionround.xcf
+x../Images/potionround.xcf
+lSLF07#2@30"Copy ../Images/potionround.xcf341600534#341600534#0(0"0(0#0#86"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/potionround.xcf8615096352#555"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/potionround.xcf /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app0#
+
+CCpResource build/Debug-iphonesimulator/UIProtoBetter.app/shopkeaper.png ../Images/shopkeaper.png
+s341600534.143170
+e341600534.156963
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIProtoBetter.app/shopkeaper.png
+x../Images/shopkeaper.png
+lSLF07#2@29"Copy ../Images/shopkeaper.png341600534#341600534#0(0"0(0#0#85"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/shopkeaper.png8622199232#554"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/shopkeaper.png /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app0#
+
+CCpResource build/Debug-iphonesimulator/UIProtoBetter.app/stashCart.png ../Images/stashCart.png
+s341600534.143903
+e341600534.158187
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIProtoBetter.app/stashCart.png
+x../Images/stashCart.png
+lSLF07#2@28"Copy ../Images/stashCart.png341600534#341600534#0(0"0(0#0#84"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/stashCart.png8621597344#553"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/stashCart.png /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app0#
+
+CCpResource build/Debug-iphonesimulator/UIProtoBetter.app/storeTag.png ../Images/storeTag.png
+s341600534.144611
+e341600534.160789
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/UIProtoBetter.app/storeTag.png
+x../Images/storeTag.png
+lSLF07#2@27"Copy ../Images/storeTag.png341600534#341600534#0(0"0(0#0#83"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/storeTag.png8618849856#552"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/../Images/storeTag.png /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app0#
+
+CGenerateDSYMFile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app.dSYM /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter
+s342208595.760075
+e342208595.896449
+r1
+xGenerateDSYMFile
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app.dSYM
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/UIProtoBetter.app.dSYM build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter342208595#342208595#0(0"0(0#0#120"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter8616554976#467"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app.dSYM0#
+
+CLd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter normal i386
+s342208595.481052
+e342208595.759982
+r1
+xLd
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter
+xnormal
+xi386
+lSLF07#2@125"Link /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter342208595#342208595#0(0"0(0#0#0"8618075584#1040"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -filelist /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/Objects-normal/i386/UIProtoBetter.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/UIProtoBetter0#
+
+CProcessInfoPlistFile /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/Info.plist UIProtoBetter-Info.plist
+s341597899.264055
+e341597899.268096
+r1
+xProcessInfoPlistFile
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/Info.plist
+xUIProtoBetter-Info.plist
+lSLF07#2@32"Process UIProtoBetter-Info.plist341597899#341597899#0(0"0(0#0#85"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/UIProtoBetter-Info.plist8617500960#563"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility UIProtoBetter-Info.plist -genpkginfo /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app/Info.plist0#
+
+CProcessPCH /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch.gch UIProtoBetter_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s341597899.652079
+e341597900.279727
+r1
+xProcessPCH
+x/var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch.gch
+xUIProtoBetter_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile UIProtoBetter_Prefix.pch341597899#341597900#0(0"0(0#0#85"/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/UIProtoBetter_Prefix.pch8622433088#2140"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-generated-files.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-own-target-headers.hmap -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-all-target-headers.hmap -iquote /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/UIProtoBetter-project-headers.hmap -F/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/include -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources/i386 -I/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/UIProtoBetter.build/Debug-iphonesimulator/UIProtoBetter.build/DerivedSources -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/UIProtoBetter_Prefix.pch -o /var/folders/RY/RYc+Xo4aGEKe2k99R1i0Gk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/UIProtoBetter_Prefix-enrjfiazdfhzttgmstqyuuysmlfg/UIProtoBetter_Prefix.pch.gch0#
+
+CTouch /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app
+s342208595.896526
+e342208595.898320
+r1
+xTouch
+x/Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app
+lSLF07#2@112"Touch /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app342208595#342208595#0(0"0(0#0#0"8618476768#328"    cd /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mckenziekurtz/Documents/TannerFolder/JP/UIProtoBetter/build/Debug-iphonesimulator/UIProtoBetter.app0#
+
